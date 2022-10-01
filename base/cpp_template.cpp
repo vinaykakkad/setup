@@ -260,6 +260,24 @@ long long fnCr(long long int N, long long int R)
     return mul(fact[N], fni[R], fni[N - R]);
 }
 
+// Use the following function along with the unordered_map declaration
+// Usage: unordered_map<int, int, custom_hash> mp;
+// Advantages: https://codeforces.com/blog/entry/62393
+struct custom_hash {
+    static uint64_t splitmix64(uint64_t x) {
+        // http://xorshift.di.unimi.it/splitmix64.c
+        x += 0x9e3779b97f4a7c15;
+        x = (x ^ (x >> 30)) * 0xbf58476d1ce4e5b9;
+        x = (x ^ (x >> 27)) * 0x94d049bb133111eb;
+        return x ^ (x >> 31);
+    }
+
+    size_t operator()(uint64_t x) const {
+        static const uint64_t FIXED_RANDOM = chrono::steady_clock::now().time_since_epoch().count();
+        return splitmix64(x + FIXED_RANDOM);
+    }
+};
+
 bool findParity(ll x)
 {
     ll y = x ^ (x >> 1);
@@ -274,7 +292,7 @@ bool findParity(ll x)
 
 
 using namespace std;
-        
+
 int main() {
 
     ios_base::sync_with_stdio(0);
