@@ -20,6 +20,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/RP-72"><img src="https://avatars.githubusercontent.com/u/59957244?v=4?s=100" width="100px;" alt="RP-72"/><br /><sub><b>RP-72</b></sub></a><br /><a href="https://github.com/vinaykakkad/setup/commits?author=RP-72" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Gagansankhla"><img src="https://avatars.githubusercontent.com/u/63205462?v=4?s=100" width="100px;" alt="Gagansankhla"/><br /><sub><b>Gagansankhla</b></sub></a><br /><a href="https://github.com/vinaykakkad/setup/commits?author=Gagansankhla" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/neelpopat242"><img src="https://avatars.githubusercontent.com/u/60340946?v=4?s=100" width="100px;" alt="Neel Popat"/><br /><sub><b>Neel Popat</b></sub></a><br /><a href="https://github.com/vinaykakkad/setup/commits?author=neelpopat242" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/nipun3333"><img src="https://avatars.githubusercontent.com/u/70288062?v=4?s=100" width="100px;" alt="Nipun Patel"/><br /><sub><b>Nipun Patel</b></sub></a><br /><a href="https://github.com/vinaykakkad/setup/commits?author=nipun3333" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
