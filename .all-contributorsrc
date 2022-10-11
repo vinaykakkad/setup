@@ -50,6 +50,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "neelpopat242",
+      "name": "Neel Popat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60340946?v=4",
+      "profile": "https://github.com/neelpopat242",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -57,5 +66,6 @@
   "projectOwner": "vinaykakkad",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
