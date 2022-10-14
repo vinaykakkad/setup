@@ -1,6 +1,6 @@
 # setup
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 vsc setup with tasks, templates and formatting configuration for competitive programming
 
@@ -21,6 +21,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/Gagansankhla"><img src="https://avatars.githubusercontent.com/u/63205462?v=4?s=100" width="100px;" alt="Gagansankhla"/><br /><sub><b>Gagansankhla</b></sub></a><br /><a href="https://github.com/vinaykakkad/setup/commits?author=Gagansankhla" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/neelpopat242"><img src="https://avatars.githubusercontent.com/u/60340946?v=4?s=100" width="100px;" alt="Neel Popat"/><br /><sub><b>Neel Popat</b></sub></a><br /><a href="https://github.com/vinaykakkad/setup/commits?author=neelpopat242" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/nipun3333"><img src="https://avatars.githubusercontent.com/u/70288062?v=4?s=100" width="100px;" alt="Nipun Patel"/><br /><sub><b>Nipun Patel</b></sub></a><br /><a href="https://github.com/vinaykakkad/setup/commits?author=nipun3333" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Poojan987"><img src="https://avatars.githubusercontent.com/u/59042591?v=4?s=100" width="100px;" alt="Poojan987"/><br /><sub><b>Poojan987</b></sub></a><br /><a href="https://github.com/vinaykakkad/setup/commits?author=Poojan987" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
